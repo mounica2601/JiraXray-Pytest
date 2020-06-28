@@ -10,7 +10,7 @@ def create_JIRA_Task_and_add_label(url, username, password, projectkey, testcase
                 {
                     "key": projectkey
                 },
-            "summary": "Automation  Failure Task with the test case in the suite "+testcasename,
+            "summary": "Automation Failure Task with the test case in the suite "+testcasename,
             "description": description,
             "issuetype": {
                 "name": "Task"
