@@ -1,0 +1,9 @@
+{
+  "url": "http://localhost:8080",
+  "username": "mounicas",
+  "password": "Seethamraju!989",
+  "project" : "SAM",
+  "testExecutionKey": "SAM-3",
+  "globalJiraSwitchKey": true,
+  "createNewJiraTasks" : true
+}
